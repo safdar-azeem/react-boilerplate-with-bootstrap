@@ -1,0 +1,8 @@
+const actionTypes = {
+	GET_POST_REQUEST: "GET_POST_REQUEST",
+	GET_POST_SUCCESS: "GET_POST_SUCCESS",
+	GET_POST_FAILURE: "GET_POST_FAILURE",
+
+}
+
+export default actionTypes
